@@ -1,3 +1,3 @@
 # gittutrepo
 <br>
-author - Niharika Sahu
+author - Niharika Sahu (Nihar-7)
